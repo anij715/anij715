@@ -2,11 +2,13 @@
 - 👀 My field of Ineterest is Data Science
 - 🔭 Things I'm currently working on:
   - Stock Market Prediction using Numerical and Textual Analysis
+  - Visual Interactive Data Exploration for Image Data
   - Timeline Analysis : Covid-19
   - Exploratory Data Analysis for IPL
   - Fault detection system
 - 🌱 Things I’m currently learning:
   -  Artificial Neural Networks
+  -  Working with Data Vis Tools
   -  Natural Language Prcessing
 - 🔭 Looking to collaborate on projects and research papers related to data science and analytics
 - 📫 Reach out to me at:
