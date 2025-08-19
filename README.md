@@ -1,18 +1,30 @@
-- 👋 Hi, I’m Rizul and I am pursuing my masters in Computer Science at the University of Cincinnati
-- 👀 My field of Ineterest is Data Science
-- 🔭 Things I'm currently working on:
-  - Stock Market Prediction using Numerical and Textual Analysis
-  - Visual Interactive Data Exploration for Image Data
-- 🌱 Things I’m currently learning:
-  -  Artificial Neural Networks
-  -  Working with Data Vis Tools
-  -  Natural Language Prcessing
-- 🔭 Looking to collaborate on projects and research papers related to data science and analytics
-- 📫 Reach out to me at:
-  - **Email:** anij1997@gmail.com
-  - **LinkedIn:** [rShr715](https://www.linkedin.com/in/rshr715/)
+# Hi, I'm Rizul 👋
 
-<!---
-anij715/anij715 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a Computer Science Ph.D. Student at the University of Cincinnati. My research lies at the intersection of **Large Language Models (LLMs)** and **Data Visualization**, with a focus on enhancing human-computer collaboration.
+
+---
+
+### 🔭 What I'm Working On
+
+My current research projects involve:
+- **AI-Powered Meeting Insights:** Investigating AI assistance to improve insights and outcomes in long-term collaborative online meetings.
+- **Multi-modal LLMs for Collaboration:** Fusing multi-modal data streams (audio, video, text) to create more context-aware language models for meeting assistance.
+- **Topic Drift & Meeting Analysis:** Designing models for topic drift detection in conversations, complemented by interactive data visualizations.
+- **Interactive Image Data Exploration:** Exploring novel visual interfaces and designing techniques for interactively exploring large-scale image datasets.
+
+### 🌱 My Core Interests & Skills
+
+I am continuously deepening my expertise in:
+- Natural Language Processing (NLP)
+- Advanced Transformer Architectures
+- Multi-modal Machine Learning
+- Human-Computer Interaction (HCI)
+
+### 🤝 Looking to Collaborate
+
+I am actively seeking collaborations on research papers and innovative projects related to my interests. If you're working on something exciting in LLMs, HCI, or Data Visualization, let's connect!
+
+### 📫 How to Reach Me
+
+- 📧 **Email:** `sharmarz@mail.uc.edu` | `anij1997@gmail.com`
+- 💼 **LinkedIn:** [linkedin.com/in/rshr715](https://www.linkedin.com/in/rshr715/)
