@@ -15,6 +15,7 @@ My current research projects involve:
 ### 🌱 My Core Interests & Skills
 
 I am continuously deepening my expertise in:
+- Data Visualizations and Vis Literacy
 - Natural Language Processing (NLP)
 - Advanced Transformer Architectures
 - Multi-modal Machine Learning
