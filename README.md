@@ -27,5 +27,5 @@ I am actively seeking collaborations on research papers and innovative projects 
 
 ### 📫 How to Reach Me
 
-- 📧 **Email:** [sharmarz@mail.uc.edu](sharmarz@mail.uc.edu) | [anij1997@gmail.com](mailto:anij1997@gmail.com)
+- 📧 **Email:** [sharmarz@mail.uc.edu](mailto:sharmarz@mail.uc.edu) | [anij1997@gmail.com](mailto:anij1997@gmail.com)
 - 💼 **LinkedIn:** [rshr715](https://www.linkedin.com/in/rshr715/)
